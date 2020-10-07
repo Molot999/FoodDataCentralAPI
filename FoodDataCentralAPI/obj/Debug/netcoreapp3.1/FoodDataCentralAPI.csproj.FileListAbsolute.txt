@@ -13,3 +13,12 @@ C:\Users\Illarion\source\repos\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDa
 C:\Users\Illarion\source\repos\FoodDataCentralAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Illarion\source\repos\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.csproj.CoreCompileInputs.cache
 C:\Users\Illarion\source\repos\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.csproj.CopyComplete
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\bin\Debug\netcoreapp3.1\FoodDataCentralAPI.deps.json
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\bin\Debug\netcoreapp3.1\FoodDataCentralAPI.dll
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\bin\Debug\netcoreapp3.1\FoodDataCentralAPI.pdb
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.csprojAssemblyReference.cache
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.csproj.CoreCompileInputs.cache
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.AssemblyInfoInputs.cache
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.AssemblyInfo.cs
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.dll
+C:\Users\Illarion\source\repos\FoodDataCentralAPI\FoodDataCentralAPI\obj\Debug\netcoreapp3.1\FoodDataCentralAPI.pdb

@@ -6,6 +6,6 @@ namespace FoodDataCentralAPI
 {
     interface FoodItem
     {
-        string dataType { get; }
+        string dataType { get; } 
     }
 }
