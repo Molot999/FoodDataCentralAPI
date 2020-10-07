@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HjajKVy3AsAIvXMCgUP7k/cQAAO7Xg/JxbQpllpVZ5tdthtaWYJ5DpcSqYyhR/BVoO/MDV6rz3GNTj+/EfJQjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Illarion\\source\\repos\\FoodDataCentralAPI\\FoodDataCentralAPI\\FoodDataCentralAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Illarion\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
